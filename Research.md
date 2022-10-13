@@ -3,5 +3,4 @@ layout: default
 title: "Research"
 ---
 
-
-introduce research
+Publication list will be written here.
