@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
  # - {url: "/katie.pdf", title: CV}
  # - {url: "http://childlanglab.com", title: Lab}
   - {file: "Research.md", title: "Research"}
-  - {file: "teaching.md", title: "About"}
+  - {file: "teaching.md", title: "Teaching"}
   - {file: "CV.md", title: "CV"}
 
 
