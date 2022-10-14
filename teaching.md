@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Teaching"
+---
 
 **Courses I taught in KAIST:**      
   
