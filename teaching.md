@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Research"
+---
+
 **Courses I taught in KAIST:**
   
 2022 Fall: Differential Equations and Applications **(coordinator)**  
