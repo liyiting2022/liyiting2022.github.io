@@ -1,7 +1,4 @@
----
-layout: default
-title: "Research"
----
+
 
 **Courses I taught in KAIST:**   
   
