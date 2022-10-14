@@ -1,7 +1,4 @@
----
-layout: default
-title: "CV"
----
+
 
 
 **Employment:**
