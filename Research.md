@@ -15,7 +15,7 @@ title: "Research"
 
 4. (with Xin Sun) On fluctuations for random band Toeplitz matrices, *Random Matrices Theory Appl.* **4** (2015). [arxiv](https://arxiv.org/abs/1412.5232)
 
-3. Menage numbers and m´enage permutations, *J. Integer Seq.* **18** (2015). [arxiv](https://arxiv.org/abs/1502.06068)
+3. Menage numbers and menage permutations, *J. Integer Seq.* **18** (2015). [arxiv](https://arxiv.org/abs/1502.06068)
 
 2. (with Dangzheng Liu, Xin Sun and Zhengdong Wang) A note on eigenvalues of random block Toeplitz matrices with slowly growing bandwidth, *Statist. Probab. Lett.* **81** (2011). [arxiv](https://arxiv.org/abs/1108.2810)
 
