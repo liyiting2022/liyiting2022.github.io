@@ -11,7 +11,7 @@ title: "Research"
 
 4. (with Xin Sun and SamuelWatson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, submitted, [arxiv](https://arxiv.org/abs/1705.03573)
 
-5. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, submitted, [arxiv](https://arxiv.org/abs/1611.06603) test  
+5. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, submitted, [arxiv](https://arxiv.org/abs/1611.06603)     
 
 6. (with Xin Sun) On fluctuations for random band Toeplitz matrices, *Random Matrices Theory Appl.* **4** (2015). [arxiv](https://arxiv.org/abs/1412.5232)
 
