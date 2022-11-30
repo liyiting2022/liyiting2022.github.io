@@ -5,7 +5,7 @@ title: "Research"
 
 1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, priprint, [arxiv](https://arxiv.org/abs/2211.05546)
 
-2. (with Ji Oon Lee) Spherical Sherrington-Kirkpatrick model for deformed Wigner matrix with fast decaying edges, submitted, [arxiv](https://arxiv.org/abs/2112.14107)
+2. (with Ji Oon Lee) Spherical Sherrington-Kirkpatrick model for deformed Wigner matrix with fast decaying edges, *J. Stat. Phys.*, accepted. [arxiv](https://arxiv.org/abs/2112.14107)
 
 3. (with Yuanyuan Xu) Central limit theorem for mesoscopic eigenvalue statistics of generalized Wigner matrix, *Bernoulli* **27** (2021). [arxiv](https://arxiv.org/abs/2001.08725)
 
