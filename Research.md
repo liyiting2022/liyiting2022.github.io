@@ -19,6 +19,6 @@ title: "Research"
 
 8. Menage numbers and menage permutations, **Journal of Integer Sequences**, Vol. 18, Issue 6  (2015). [arxiv](https://arxiv.org/abs/1502.06068)
 
-9. (with Dangzheng Liu, Xin Sun and Zhengdong Wang) A note on eigenvalues of random block Toeplitz matrices with slowly growing bandwidth, **Statistics \& Probability Letters**, Vol. 81, Issue 12, 2026--2029  (2011). [arxiv](https://arxiv.org/abs/1108.2810)
+9. (with Dangzheng Liu, Xin Sun and Zhengdong Wang) A note on eigenvalues of random block Toeplitz matrices with slowly growing bandwidth, **Statistics & Probability Letters**, Vol. 81, Issue 12, 2026--2029  (2011). [arxiv](https://arxiv.org/abs/1108.2810)
 
 10. (with Dangzheng Liu and Zhengdong Wang) Limit distributions of eigenvalues for random block Toeplitz and Hankel matrices, **Journal of Theoretical Probability**, Vol. 24, Issue 4, 1063--1086   (2011). [arxiv](https://arxiv.org/abs/1010.3191)
