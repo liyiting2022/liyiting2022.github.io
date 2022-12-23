@@ -13,7 +13,7 @@ title: "Research"
 
 5. (with Yuanyuan Xu) Central limit theorem for mesoscopic eigenvalue statistics of generalized Wigner matrix, **Bernoulli**, Vol 27, Issue 2, 1057--1076 (2021). [arxiv](https://arxiv.org/abs/2001.08725)
 
-6. (with Kevin Schnelli and Yuanyuan Xu) Central limit theorem for mesoscopic eigenvalue statistics of deformed Wigner matrices and sample covariance matrices, **Annales de l’Institut Henri Poincar\acute{e} - Probabilit\acute{e}s et Statistiques**,  Vol. 57, Issue 1, 506--546  (2021). [arxiv](https://arxiv.org/abs/1909.12821)   
+6. (with Kevin Schnelli and Yuanyuan Xu) Central limit theorem for mesoscopic eigenvalue statistics of deformed Wigner matrices and sample covariance matrices, **Annales de l’Institut Henri Poincaré - Probabilités et Statistiques**,  Vol. 57, Issue 1, 506--546  (2021). [arxiv](https://arxiv.org/abs/1909.12821)   
 
 7. (with Xin Sun) On fluctuations for random band Toeplitz matrices, **Random Matrices: Theory and Applications**,  Vol. 4, Issue 3  (2015). [arxiv](https://arxiv.org/abs/1412.5232)
 
