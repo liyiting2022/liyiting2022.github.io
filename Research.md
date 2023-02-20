@@ -5,7 +5,7 @@ title: "Research"
 
 1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, priprint, [arxiv](https://arxiv.org/abs/2211.05546)
 
-2. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, submitted, [arxiv](https://arxiv.org/abs/1611.06603) 
+2. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, **Annals of Applied Probability**, accepted. [arxiv](https://arxiv.org/abs/1611.06603) 
 
 3. (with Xin Sun and Samuel Watson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, **Transactions of the American Mathematical Society**, accepted. [arxiv](https://arxiv.org/abs/1705.03573)
 
