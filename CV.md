@@ -9,6 +9,6 @@
 
 **Education:**
 
-2011--2017: Ph.D. in Mathematics, Brandeis University.  
-2007--2010: M.S. in Mathematics, Peking University.  
-2003--2007: B.S. in Mathematics, Peking University.  
+Ph.D. in Mathematics: Brandeis University.  
+M.S. in Mathematics: Peking University.  
+B.S. in Mathematics: Peking University.  
