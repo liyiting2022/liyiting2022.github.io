@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, priprint, [arxiv](https://arxiv.org/abs/2211.05546)
+1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, preprint, [arxiv](https://arxiv.org/abs/2211.05546)
 
 2. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, **Annals of Applied Probability**, accepted. [arxiv](https://arxiv.org/abs/1611.06603) 
 
