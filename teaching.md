@@ -9,6 +9,10 @@
 2021 Spring: Probability and Statistics  
 2020 Fall: Multivariable Calculus  
 
+**A mini course I gave in Peking University:**
+
+April 2019: A Mini Course in Random Matrix Theory
+
 **Courses I taught in Brandeis University:**
 
 2017 Summer: Differential Equations  
@@ -19,6 +23,4 @@
 2014 Spring: Integral Calculus  
 2013 Fall: Differential Calculus  
 
-**A mini course I gave in Peking University:**
 
-April 2019: A Mini Course in Random Matrix Theory
