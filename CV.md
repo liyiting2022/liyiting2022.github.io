@@ -14,5 +14,7 @@
 **Education:**
 
 Ph.D. in Mathematics: Brandeis University.  
+
 M.S. in Mathematics: Peking University.  
+
 B.S. in Mathematics: Peking University.
