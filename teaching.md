@@ -1,6 +1,6 @@
 
 
-**Courses I taught in KAIST:**          
+**Courses I taught at KAIST:**          
   
 2023 Spring: Differential Equations and Applications **(coordinator)**  
 2022 Fall: Differential Equations and Applications **(coordinator)**  
@@ -9,11 +9,11 @@
 2021 Spring: Probability and Statistics  
 2020 Fall: Multivariable Calculus  
 
-**A mini course I gave in Peking University:**
+**A mini course I gave at Peking University:**
 
 April 2019: A Mini Course in Random Matrix Theory
 
-**Courses I taught in Brandeis University:**
+**Courses I taught at Brandeis University:**
 
 2017 Summer: Differential Equations  
 2016 Fall: Differential Calculus  
