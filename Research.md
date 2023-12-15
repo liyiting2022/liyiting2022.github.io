@@ -5,9 +5,9 @@ title: "Research"
 
 1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, preprint, [arxiv](https://arxiv.org/abs/2211.05546)
 
-2. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, **Annals of Applied Probability**, accepted. [journal link](https://imstat.org/journals-and-publications/annals-of-applied-probability/annals-of-applied-probability-future-papers/)
+2. (with Xin Sun and Samuel Watson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, **Transactions of the American Mathematical Society**, accepted. [journal link](https://www.ams.org/cgi-bin/mstrack/accepted_papers/tran?active=press)
 
-3. (with Xin Sun and Samuel Watson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, **Transactions of the American Mathematical Society**, accepted. [journal link](https://www.ams.org/cgi-bin/mstrack/accepted_papers/tran?active=press)
+3. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, **Annals of Applied Probability**, Vol 33, Issue 6B, 5111--5144 (2023). [journal link](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-6B/Rigidity-of-eigenvalues-for-%ce%b2-ensemble-in-multi-cut-regime/10.1214/23-AAP1943.short)
 
 4. (with Ji Oon Lee) Spherical Sherrington-Kirkpatrick model for deformed Wigner matrix with fast decaying edges, **Journal of Statistical Physics**, Vol 190, Issue 2 (2023). [journal link](https://link.springer.com/article/10.1007/s10955-022-03048-5)
 
