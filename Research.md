@@ -5,7 +5,7 @@ title: "Research"
 
 1. (with Ji Oon Lee) Central limit theorem for eigenvalue statistics of sample covariance matrix with random population, preprint, [arxiv](https://arxiv.org/abs/2211.05546)
 
-2. (with Xin Sun and Samuel Watson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, **Transactions of the American Mathematical Society**, Vol 377, Issue 4, 2439--2493 (2024). [journal link](https://www.ams.org/cgi-bin/mstrack/accepted_papers/tran?active=press](https://www.ams.org/journals/tran/0000-000-00/S0002-9947-2024-08887-6/?active=current)
+2. (with Xin Sun and Samuel Watson) Schnyder wood, SLE<sub>16</sub> and Liouville quantum gravity, **Transactions of the American Mathematical Society**, Vol 377, Issue 4, 2439--2493 (2024). [journal link](https://www.ams.org/journals/tran/0000-000-00/S0002-9947-2024-08887-6/?active=current)
 
 3. Rigidity of eigenvalues for 	&beta; ensemble in multi-cut regime, **Annals of Applied Probability**, Vol 33, Issue 6B, 5111--5144 (2023). [journal link](https://projecteuclid.org/journals/annals-of-applied-probability/volume-33/issue-6B/Rigidity-of-eigenvalues-for-%ce%b2-ensemble-in-multi-cut-regime/10.1214/23-AAP1943.short)
 
